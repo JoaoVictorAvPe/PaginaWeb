@@ -29,10 +29,12 @@ nav a {
     color: white;
     text-transform: uppercase;
     text-decoration: none;
+    letter-spacing: 2px;
 }
 
 nav a:hover {
     background-color: #3533319c;
+    transition-duration: 0.3s;
  
 }
 
